@@ -1,0 +1,11 @@
+Analysera datan
+- [x] Hur många datapunkter och attribut finns?
+- [ ] Hur många klasser av kvalitet finns det?
+- [ ] Hur ser distributionen ut för de olika attributen?
+- [ ] Finns det något attribut som inte borde användas?
+- [ ] Dela upp datan i träning och testset
+- [ ] Träna ett decision tree
+- [ ] Vad får modellen för testscore?
+- [ ] Hur djupt är trädet?
+- [ ] Hur många löv har trädet?
+- [ ] Vilka attribut har störst påverkan?
